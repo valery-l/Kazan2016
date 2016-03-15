@@ -1,6 +1,5 @@
 
 #include <iostream>
-#include <crtdbg.h>
 #include <assert.h>
 
 #include "linked_ptr.h"
